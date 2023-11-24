@@ -4,7 +4,7 @@
   "description": "who reads this ?",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "scripts": {
     "start": "node index.js",
